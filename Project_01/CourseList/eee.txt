@@ -1,0 +1,24 @@
+Trimester 1:
+SL	Course Code	Prerequisite
+
+1	ENG 1011		
+2	BDS 1201		
+3	CSE 1110		
+4	CSE 2213		
+Total	Credit: 9.0	
+Trimester 2:
+SL	Course Code	Prerequisite
+
+1	ENG 1013	ENG 1011
+2	CSE 1111	CSE 1110
+3	CSE 1112	CSE 1110
+4	MATH 1151	
+Total	Credit:9.0
+Trimester 3:
+SL	Course Code	Prerequisite
+
+1	ENG 1013	ENG 1011
+2	CSE 1111	CSE 1110
+3	CSE 1112	CSE 1110
+4	MATH 1151	
+Total	Credit:9.0

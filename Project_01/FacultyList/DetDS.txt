@@ -1,0 +1,33 @@
+FAC
+Dr. Md. Abul Kashem Mia
+Vice Chancellor
+ROOM: 129
+
+PABX:
+
+Email: kashem@uiu.ac.bd
+FAC
+Dr. Hasan Sarwar
+Professor, Dept. of CSE & Dean, SoSE
+ROOM: 418 (A)
+
+PABX: 3001
+
+Email: hsarwar@cse.uiu.ac.bd
+FAC
+Dr. Mohammad Nurul Huda
+Professor, Dept. of CSE & Head of Dept.
+ROOM: 412 A
+
+PABX: 3101
+
+Email: mnh@cse.uiu.ac.bd
+FAC
+Dr. Khondaker Abdullah -Al-Mamun
+Professor, Dept. of CSE & Director, IRIIC
+ROOM: 1012B
+
+PABX: 3115
+
+Email: mamun@cse.uiu.ac.bd
+FAC

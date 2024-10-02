@@ -1,0 +1,7 @@
+<<<<<<<<<<<<<<< [COURSES] >>>>>>>>>>>>>>>
+Computer Science and Engineering (CSE)
+Electrical & Electronic Engineering (EEE)
+Data Science (DS)
+Bachelor of Business Administration (BBA)
+Accounting and Information Systems (AIS)
+Bachelor of Science in Economics (BSE)

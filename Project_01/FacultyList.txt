@@ -1,0 +1,37 @@
+CSE
+SL	Name				        		
+1	Md. Abul Kashem Mia		    	
+2	Hasan Sarwar		       			
+3	Mohammad Nurul Huda		    		
+4	Khondaker Abdullah-Al-Mamun 
+5	A.K.M. Muzahidul Islam			
+6	Md. Motaharul Islam		    		
+7	Dewan Md. Farid			    		
+8	Al-Sakib Khan Pathan			
+9	Mohammad Shahriar Rahman		
+10	Muhammad Nomani Kabir		 	
+11	Suman Ahmmed			     	
+12	Riasat Azim			         	
+13	Mohammad Mamun Elahi		 	
+14	Rubaiya Rahtin Khan		     	
+15	Md. Benzir Ahmed		     	
+16	Nahid Hossain			     			
+CSE EEE
+SL	Name				        		
+1	Dr. M. Rezwan Khan
+2	Siddique Md. Lutful Kabir
+3	Raqibul Mostafa
+...
+EEE BBA
+SL	Name				        		
+1	Hasnan Ahmed
+2	Mohammad Musa
+3	Dr. M. Fouzul Kabir Khan
+4	Salma Karim
+...
+BBA BSE
+SL	Name				        		
+1	Mohammad Omar Farooq
+2	Mohammad A. Ashraf
+...
+BSE 
