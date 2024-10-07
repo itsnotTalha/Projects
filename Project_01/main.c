@@ -84,7 +84,8 @@ int main(void)
 }
 void cleanConsole()
 {
-    printf("\033[H\033[J");
+    system("cls");
+
 }
 int takeInput()
 {
