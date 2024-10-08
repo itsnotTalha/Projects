@@ -15,23 +15,52 @@ SL	Name
 13	Mohammad Mamun Elahi		 	
 14	Rubaiya Rahtin Khan		     	
 15	Md. Benzir Ahmed		     	
-16	Nahid Hossain			     			
+16	Nahid Hossain
+			     			
 CSE EEE
 SL	Name				        		
 1	Dr. M. Rezwan Khan
 2	Siddique Md. Lutful Kabir
 3	Raqibul Mostafa
-...
+4	Intekhab Alam
+5	Kaled Masukur Rahman	
+6	Md. Iqbal Bahar Chowdhury	
+7	Sadid Muneer
+8	Md. Shahriar Ahmed Chowdhury
+9	B.K.M. Mizanur Rahman
+10	Helena Bulbul
+11	Md. Zubair Alam Emon
+12	S.M. Haider Ali Shuvo
+13	Mehenaz Afrin	
+14	Raiyan Basher
+15	S.M. Monzurul Hoque Chowdhury
+
 EEE BBA
 SL	Name				        		
 1	Hasnan Ahmed
 2	Mohammad Musa
 3	Dr. M. Fouzul Kabir Khan
 4	Salma Karim
-...
+5	Farid Ahammad Sobhani
+6	Abu Saleh Md. Sohel-Uz-Zaman
+7	Mohd. H. R. Joarder
+8	Md. Mohan Uddin
+9	Kawsar Ahmmed
+10	Khandoker Mahmudur Rahman
+11	Md. Shariful Alam
+12	James Bakul Sarkar
+13	Md. Qamruzzaman
+14	Seyama Sultana
+15	Saad Hasan
+
 BBA BSE
 SL	Name				        		
 1	Mohammad Omar Farooq
 2	Mohammad A. Ashraf
-...
+3	Musharrat Shabnam Shuchi	
+4	Tanzila Amir	
+5	Sayeda Chandra Tabassum	
+6	Tanseer Ahamed	
+7	Tasneem Jahan Tumpa
+
 BSE 

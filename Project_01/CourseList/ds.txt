@@ -5,6 +5,7 @@ SL	Course Code	Prerequisite
 2	BDS 1201		
 3	CSE 1110		
 4	CSE 2213		
+
 Total	Credit: 9.0	
 Trimester 2:
 SL	Course Code	Prerequisite
@@ -13,12 +14,106 @@ SL	Course Code	Prerequisite
 2	CSE 1111	CSE 1110
 3	CSE 1112	CSE 1110
 4	MATH 1151	
+
 Total	Credit:9.0
 Trimester 3:
 SL	Course Code	Prerequisite
 
-1	ENG 1013	ENG 1011
-2	CSE 1111	CSE 1110
-3	CSE 1112	CSE 1110
-4	MATH 1151	
+1	CSE  1115	
+2	CSE  1326       CSE  1111
+3	CSE  1325	CSE  1112
+4	MATH 2183       MATH 1151
+5       CSE  1116	
+
+Total	Credit:11.0
+Trimester 4:
+SL	Course Code	Prerequisite
+
+1	MATH 2201	MATH 2201	
+2	CSE  2118       CSE  2118
+3	PHY  2105       PHY  2105
+4	PHY  2106
+5	EEE  2113	 
+
+Total	Credit: 9.0	
+Trimester 5:
+SL	Course Code	 
+
+1	MATH 2205
+2	SOC  2101       CSE 2216
+3	CSE  2215	CSE 1110
+4	CSE  2216       CSE 2233
+5       CSE  2233
+
 Total	Credit:9.0
+Trimester 6:
+SL	Course Code	Prerequisite
+
+1	CSE 3313	CSE 3313
+2	CSE 2217	CSE 1123
+3	CSE 2218	CSE 2217
+4	EEE 1123
+5       EEE 2124	
+
+Total	Credit:9.0
+Trimester 7:
+SL	Course Code	Prerequisite
+
+1	CSE 3521	CSE 3521	
+2	CSE 3522	CSE 3522	
+3	CSE 3411		
+4	CSE 3412
+5       CSE 3812		
+
+Total	Credit: 9.0	
+Trimester 8:
+SL	Course Code	Prerequisite	 
+
+1	MATH 2205
+2	SOC  2101       CSE 2216
+3	CSE  2215	CSE 1110
+4	CSE  2216       CSE 2233
+5       CSE  2233
+
+Total	Credit:9.0
+Trimester 9:
+SL	Course Code	Prerequisite
+
+1	CSE 3313	CSE 3313
+2	CSE 2217	CSE 1123
+3	CSE 2218	CSE 2217
+4	EEE 1123
+5       EEE 2124	
+
+Total	Credit:9.0
+Trimester 10:
+SL	Course Code	Prerequisite
+
+1	CSE 3521	CSE 3521	
+2	CSE 3522	CSE 3522	
+3	CSE 3411		
+4	CSE 3412
+5       CSE 3812		
+
+Total	Credit: 9.0	
+Trimester 11:
+SL	Course Code	Prerequisite
+
+1	CSE 3313	CSE 3313
+2	CSE 2217	CSE 1123
+3	CSE 2218	CSE 2217
+4	EEE 1123
+5       EEE 2124	
+
+Total	Credit:9.0
+Trimester 12:
+SL	Course Code	Prerequisite
+
+1	CSE 3521	CSE 3521	
+2	CSE 3522	CSE 3522	
+3	CSE 3411		
+4	CSE 3412
+5       CSE 3812		
+
+Total	Credit: 9.0	
+Trimester

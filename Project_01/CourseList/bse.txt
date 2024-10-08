@@ -1,24 +1,102 @@
-Trimester 1:
-SL	Course Code	Prerequisite
+Trimester 1
+SL    course code	Prerequisite
 
-1	ENG 1011		
-2	BDS 1201		
-3	CSE 1110		
-4	CSE 2213		
-Total	Credit: 9.0	
-Trimester 2:
-SL	Course Code	Prerequisite
+1       ENG 1011	
+2       BUS 1102
+3       BDS 1201
 
-1	ENG 1013	ENG 1011
-2	CSE 1111	CSE 1110
-3	CSE 1112	CSE 1110
-4	MATH 1151	
-Total	Credit:9.0
-Trimester 3:
-SL	Course Code	Prerequisite
+Total credit : 8
+Trimester 2
+SL    course code	Prerequisite
 
-1	ENG 1013	ENG 1011
-2	CSE 1111	CSE 1110
-3	CSE 1112	CSE 1110
-4	MATH 1151	
-Total	Credit:9.0
+1       ENG 1013	ENG 1011
+2       BMT 1103
+3       CST 1206
+	
+Total credit: 9
+Trimester 3
+SL    Course code	Prerequisite
+
+1       AIS 1201      
+2       SOC 1105      	ENG 1013	 	 
+3       MGT 1307     	ENG 1011	 
+4       QNT 1202     	QNT 1104
+
+Total credit: 12
+Trimester 4
+SL    Course code	Prerequisite
+
+1       ACN 1309	
+2       BUS 2112
+3       BST 1308
+4       ECN 2111
+
+Total credit : 12
+
+Trimester 5
+SL    Course code	Prerequisite
+
+1     ENG 1013	        ENG 1011
+2     QNT 1104
+3     CST 1303	
+
+Total credit: 11
+Trimester 6
+SL    Course code	Prerequisite
+
+1       AIS 1201      
+2       SOC 1105      	ENG 1013	 	 
+3       MGT 1307     	ENG 1011	 
+4       QNT 1202     	QNT 1104
+
+Total credit: 12
+Trimester 7
+SL    Course code	Prerequisite
+
+1     ENG 1011	
+2     BUS 1102
+3     BDS 1201
+
+Total credit : 8
+Trimester 8
+SL    Course code	Prerequisite
+
+1     ENG 1013	        ENG 1011
+2     QNT 1104
+3     CST 1303	
+
+Total credit: 9
+Trimester 9
+SL    Course code	Prerequisite
+
+1       AIS 1201      
+2       SOC 1105      	ENG 1013	 	 
+3       MGT 1307     	ENG 1011	 
+4       QNT 1202     	QNT 1104
+
+Total credit: 12
+Trimester 10
+SL    Course code	Prerequisite
+
+1      ENG 1011	
+2      BUS 1102
+3      BDS 1201
+
+Total credit : 8
+Trimester 11
+SL    Course code	Prerequisite
+
+1       ENG 1013        ENG 1011
+2       QNT 1104
+3       CST 1303	
+
+Total credit: 9
+Trimester 12
+SL    Course code	Prerequisite
+
+1       AIS 1201      
+2       SOC 1105      	ENG 1013	 	 
+3       MGT 1307     	ENG 1011	 
+4       QNT 1202     	QNT 1104
+
+Total credit: 12

@@ -1,3 +1,7 @@
+/***************************************************
+ * UIU STUDENT SPHERE *
+ ***************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -8,7 +12,7 @@ const char *LoginInfo = "loginInfo.txt";
 const char *About = "AboutUIU.txt";
 const char *Courselist = "Courses.txt";
 const char *Faclist = "FacultyList.txt";
-const char *tuiFee = "Tuitionfee.txt";
+char *tuiFee = "Tuitionfee.txt";
 const char *circular = "Circular.txt";
 const char *uiuWeb = "https://admission.uiu.ac.bd/Admission/Home.aspx#Apply";
 
@@ -73,6 +77,8 @@ int main(void)
 {
     struct SignIn signin;
     cleanConsole();
+    puts("<<<<<WELCOME TO STUDENT SPHERE OF UIU>>>>>");
+    puts("");
     if (!loginpage())
     {
         int wheel = 1;
@@ -343,7 +349,7 @@ int Homepage()
                 fileReader("FacultyList\\DetEEE.txt", "FAC", takeInput());
                 break;
             case 3:
-                fileReader(Faclist, "DS", Occurs);
+                fileReader(Faclist, "CSE", Occurs);
                 fileReader("FacultyList\\DetCSE.txt", "FAC", takeInput());
                 break;
             case 4:
@@ -351,7 +357,7 @@ int Homepage()
                 fileReader("FacultyList\\DetBBA.txt", "FAC", takeInput());
                 break;
             case 5:
-                fileReader(Faclist, "AIS", Occurs);
+                fileReader(Faclist, "BBA", Occurs);
                 fileReader("FacultyList\\DetBBA.txt", "FAC", takeInput());
                 break;
             case 6:

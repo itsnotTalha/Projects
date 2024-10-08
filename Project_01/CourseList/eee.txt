@@ -3,22 +3,114 @@ SL	Course Code	Prerequisite
 
 1	ENG 1011		
 2	BDS 1201		
-3	CSE 1110		
-4	CSE 2213		
-Total	Credit: 9.0	
+3	MAT 1101		
+4	EEE  1001	
+
+Total	Credit: 11.0	
 Trimester 2:
 SL	Course Code	Prerequisite
 
-1	ENG 1013	ENG 1011
-2	CSE 1111	CSE 1110
-3	CSE 1112	CSE 1110
-4	MATH 1151	
-Total	Credit:9.0
+1	ENG  1013	MAT  1103
+2	MAT  1103       EEE  1004      
+4	EEE  1003       EEE  1003
+3	EEE  1004      
+4	PHY  1101
+	
+Total	Credit:13.0
 Trimester 3:
 SL	Course Code	Prerequisite
 
-1	ENG 1013	ENG 1011
-2	CSE 1111	CSE 1110
-3	CSE 1112	CSE 1110
-4	MATH 1151	
-Total	Credit:9.0
+1	EEE   2000    	MAT   2105
+2	EEE   2101	PHY   11O3
+3	PHY   1103	EEE   2000 
+4	PHY   1004
+5	MAT   2105
+
+Total	Credit:11.0
+
+Trimester 4:
+SL	Course Code	Prerequisite
+
+1       EEE  2104	EEE  2104	
+2	EEE  2103	EEE  2103	
+3	CHE  2101	CHE  2101		
+4	CHE  2102	
+
+Total	Credit: 11.0	
+Trimester 5:
+SL	Course Code	Prerequisite
+
+1	EEE   2401	MAT   2109 
+2	EEE   2402	EEE   2401
+3	MAT   2109      EEE   2301 
+4	EEE   2301
+5       GED   (OPTIONAL) 
+
+Total	Credit:13.0
+Trimester 6:
+SL	Course Code	Prerequisite
+
+1	ENG 1011		
+2	BDS 1201		
+3	MAT 1101		
+4	EEE  1001	
+
+Total	Credit: 11.0	
+Trimester 7:
+SL	Course Code	Prerequisite
+
+1	ENG  1013	MAT  1103
+2	MAT  1103       EEE  1004      
+4	EEE  1003       EEE  1003
+3	EEE  1004      
+4	PHY  1101
+	
+Total	Credit:13.0
+Trimester 8:
+SL	Course Code	Prerequisite
+
+1	EEE   2000    	MAT   2105
+2	EEE   2101	PHY   11O3
+3	PHY   1103	EEE   2000 
+4	PHY   1004
+5	MAT   2105
+
+Total	Credit:11.0
+Trimester 9:
+SL	Course Code	Prerequisite
+
+1       EEE  2104	EEE  2104	
+2	EEE  2103	EEE  2103	
+3	CHE  2101	CHE  2101		
+4	CHE  2102	
+
+Total	Credit: 11.0	
+Trimester 10:
+SL	Course Code	Prerequisite
+
+1	EEE   2401	MAT   2109 
+2	EEE   2402	EEE   2401
+3	MAT   2109      EEE   2301 
+4	EEE   2301
+5       GED   (OPTIONAL) 
+
+Total	Credit:13.0
+Trimester 11:
+SL	Course Code	Prerequisite
+
+1	ENG 1011		
+2	BDS 1201		
+3	MAT 1101		
+4	EEE  1001	
+
+Total	Credit: 11.0	
+Trimester 12:
+SL	Course Code	Prerequisite
+
+1	ENG  1013	MAT  1103
+2	MAT  1103       EEE  1004      
+4	EEE  1003       EEE  1003
+3	EEE  1004      
+4	PHY  1101
+	
+Total	Credit:13.0

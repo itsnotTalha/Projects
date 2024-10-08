@@ -1,17 +1,55 @@
 CSE
 Program	Total Credit-   138
-Per Credit Fee-         6500
+Per Credit Fee-         Tk 6500
 Total Trimester-        12	
 *100% Waiver- 	        Tk 1,37,000
 *50% Waiver-            Tk 5,66,000	
 *25% Waiver-            Tk 7,80,500
 Without any waiver-     Tk 9,95,000
+
 CSE EEE
 Program	Total Credit-   140
-Per Credit Fee-         6500
+Per Credit Fee-         Tk 6500
 Total Trimester-        12	
 *100% Waiver- 	        Tk 1,37,000
 *50% Waiver-            Tk 5,72,500	
 *25% Waiver-            Tk 7,90,250
 Without any waiver-     Tk 10,08,000
-EEE 
+
+EEE BBA
+Program	Total Credit-   125
+Per Credit Fee-         Tk 6500
+Total Trimester-        12	
+*100% Waiver- 	        Tk 1,17,500
+*50% Waiver-            Tk 5,14,000	
+*25% Waiver-            Tk 7,12,250
+Without any waiver-     Tk 9,10,500
+
+BBA DS
+Program	Total Credit-   138
+Per Credit Fee-         Tk 6500
+Total Trimester-        12	
+*100% Waiver- 	        Tk 1,37,000
+*50% Waiver-            Tk 5,66,000	
+*25% Waiver-            Tk 7,80,500
+Without any waiver-     Tk 9,95,000
+
+DS AIS
+Program	Total Credit-   125
+Per Credit Fee-         Tk 6500
+Total Trimester-        12
+*100% Waiver- 	        Tk 1,17,500
+*50% Waiver-            Tk 5,14,000
+*25% Waiver-            Tk 7,12,250
+Without any waiver-     Tk 9,10,500
+
+AIS BSE
+Program	Total Credit-   122
+Per Credit Fee-         Tk 6500
+Total Trimester-        12
+*100% Waiver- 	        Tk 1,17,500
+*50% Waiver-            Tk 5,04,250
+*25% Waiver-            Tk 6,97,625
+Without any waiver-     Tk 8,91,000
+
+BSE
