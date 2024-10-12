@@ -287,6 +287,7 @@ void about_uiu()
 }
 int Homepage()
 {
+    char roll[15];
     int wheel = 1;
     while (wheel)
     {
@@ -413,7 +414,6 @@ int Homepage()
                 wheel = 1;
             break;
         case 6:
-            char roll[15];
             cleanConsole();
             printf("Enter your HSC Roll :");
             scanf("%s", roll);

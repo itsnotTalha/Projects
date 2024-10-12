@@ -1,33 +1,49 @@
 FAC
-Dr. Md. Abul Kashem Mia
-Vice Chancellor
-ROOM: 129
+Dr. Mohammad Omar Farooq
+Professor & Head of the Dept. of Economics
+ROOM: 311
 
-PABX:
+PABX: 5201
 
-Email: kashem@uiu.ac.bd
+Email: farooq@eco.uiu.ac.bd
 FAC
-Dr. Hasan Sarwar
-Professor, Dept. of CSE & Dean, SoSE
-ROOM: 418 (A)
+Dr. Mohammad A. Ashraf
+Professor, Dept. of Economics
+ROOM: 333 F
 
-PABX: 3001
+PABX: 5205
 
-Email: hsarwar@cse.uiu.ac.bd
+Email: mmashraf@bus.uiu.ac.bd
 FAC
-Dr. Mohammad Nurul Huda
-Professor, Dept. of CSE & Head of Dept.
-ROOM: 412 A
+Ms. Musharrat Shabnam Shuchi
+Assistant Professor, Dept. of Economics
+ROOM: 335(1-3) B
 
-PABX: 3101
+PABX: 5113
 
-Email: mnh@cse.uiu.ac.bd
+Email: shabnam@eco.uiu.ac.bd
 FAC
-Dr. Khondaker Abdullah -Al-Mamun
-Professor, Dept. of CSE & Director, IRIIC
-ROOM: 1012B
+Ms. Tanzila Amir
+Lecturer, Dept. of Economics
+ROOM: 336(B)
 
-PABX: 3115
+PABX: 6102
 
-Email: mamun@cse.uiu.ac.bd
+Email: tanzila@eco.uiu.ac.bd
+FAC
+Ms. Sayeda Chandra Tabassum
+Lecturer, Dept. of Economics
+ROOM: 336(B)
+
+PABX: 6102
+
+Email: tabassum@eco.uiu.ac.bd
+FAC
+Mr. Tanseer Ahamed
+Lecturer, Dept. of Economics
+ROOM: 336(A)
+
+PABX: 6102
+
+Email: tanseer@eco.uiu.ac.bd
 FAC

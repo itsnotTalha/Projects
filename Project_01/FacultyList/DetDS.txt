@@ -31,3 +31,92 @@ PABX: 3115
 
 Email: mamun@cse.uiu.ac.bd
 FAC
+Dr. A.K.M. Muzahidul Islam
+Professor, Dept. of CSE & Director, DCCSA
+ROOM: 612
+
+PABX:
+
+Email: muzahid@cse.uiu.ac.bd
+FAC
+Dr. Md. Motaharul Islam
+Professor, Dept. of CSE & Director, MSCSE Program
+ROOM: 418 (B)
+
+PABX: 3108
+
+Email: motaharul@cse.uiu.ac.bd
+FAC
+Dr. Dewan Md. Farid
+Professor, Dept. of CSE
+ROOM: 533 B
+
+PABX: 3132
+
+Email: dewanfarid@cse.uiu.ac.bd
+FAC
+Dr. Al-Sakib Khan Pathan
+Professor, Dept. of CSE
+ROOM: 733 B
+
+PABX: 3122
+
+Email: sakib@cse.uiu.ac.bd
+FAC
+Dr. Mohammad Shahriar Rahman
+Professor, Dept. of CSE & Director, CITS
+ROOM: 518
+
+PABX: 1401
+
+Email: mshahriar@cse.uiu.ac.bd
+FAC
+Dr. Muhammad Nomani Kabir
+Associate Professor, Dept. of CSE & UG Program Coordinator
+ROOM: 412 (D)
+
+PABX: 3127
+
+Email: kabir@cse.uiu.ac.bd
+FAC
+Dr. Suman Ahmmed
+Associate Professor, Dept. of CSE & Director, CDIP
+ROOM: 1035
+
+PABX: 3111
+
+Email: suman@cse.uiu.ac.bd
+
+suman@cse.uiu.ac.bd, suman@uiu.ac.bd
+FAC
+Dr. Riasat Azim
+Assistant Professor, Dept. of CSE
+ROOM: 337(1-3) A
+
+PABX: 5114
+
+Email: riasat@cse.uiu.ac.bd
+FAC
+Mr. Mohammad Mamun Elahi
+Assistant Professor, Dept. of CSE
+ROOM: 537 (1-3) A
+
+PABX: 3104
+
+Email: mmelahi@cse.uiu.ac.bd
+FAC
+Ms. Rubaiya Rahtin Khan
+Assistant Professor, Dept. of CSE
+ROOM: 418 (1-3)
+
+PABX: 3110
+
+Email: rubaiya@cse.uiu.ac.bd
+FAC
+Mr. Abu Humayed Azim Fahmid
+Lecturer, Dept. of CSE
+ROOM: 836 (B)
+
+PABX: 3133
+
+Email: humayed@cse.uiu.ac.bd

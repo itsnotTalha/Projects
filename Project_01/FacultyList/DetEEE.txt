@@ -1,33 +1,90 @@
 FAC
-Dr. Md. Abul Kashem Mia
-Vice Chancellor
-ROOM: 129
-
+Dr. M. Rezwan Khan
+Professor Emeritus, Dept. of EEE & Director, IAR
+ROOM: 1012 (A)
+PABX: 1004
+Email: rezwanm@uiu.ac.bd
+FAC
+Dr. Siddique Md. Lutful Kabir
+Professor, Dept. of EEE
+ROOM: 1035
+PABX: 3322
+Email: lutfulkabir@eee.uiu.ac.bd
+FAC
+Dr. Raqibul Mostafa
+Professor, Dept. of EEE
+ROOM: 633 (B)
+PABX: 3304
+Email: rmostafa@eee.uiu.ac.bd
+FAC
+Dr. Intekhab Alam
+Professor, Dept. of EEE
+ROOM: 633 (F)
+PABX: 3321
+Email: intekhab@eee.uiu.ac.bd
+FAC
+Dr. Kaled Masukur Rahman
+Professor, Dept. of EEE & Head of Dept.
+ROOM: 512
+PABX: 3301
+Email: masuk@eee.uiu.ac.bd
+FAC
+Dr. Md. Iqbal Bahar Chowdhury
+Associate Professor, Dept. of EEE
+ROOM: 633 (C)
+PABX: 3305
+Email: iqbal@eee.uiu.ac.bd
+FAC
+Dr. Sadid Muneer
+Associate Professor, Dept. of EEE & Undergraduate Coordinator
+ROOM: 512 (D)
+PABX: 3312
+Email: sadidmuneer@eee.uiu.ac.bd
+FAC
+Mr. Md. Shahriar Ahmed Chowdhury
+Assistant Professor, Dept. of EEE & Director, CER
+ROOM: 1006/1007/1008
+PABX: 3320
+Email: shahriar@eee.uiu.ac.bd
+FAC
+Mr. B.K.M. Mizanur Rahman
+Assistant Professor, Dept. of EEE
+ROOM: 535 (1-3) A
+PABX: 3308
+Email: mizan@eee.uiu.ac.bd
+FAC
+Ms. Helena Bulbul
+Lecturer, Dept. of EEE
+ROOM: 719 (B)
+PABX: 7104
+Email: helena@eee.uiu.ac.bd
+FAC
+Mr. Md. Zubair Alam Emon
+Lecturer, Dept. of EEE
+ROOM: 536
+PABX: 3309
+Email: zubair@eee.uiu.ac.bd
+FAC
+Mr. S.M. Haider Ali Shuvo
+Lecturer, Dept. of EEE
+ROOM: 536
 PABX:
-
-Email: kashem@uiu.ac.bd
+Email: haiderali@eee.uiu.ac.bd
 FAC
-Dr. Hasan Sarwar
-Professor, Dept. of CSE & Dean, SoSE
-ROOM: 418 (A)
-
-PABX: 3001
-
-Email: hsarwar@cse.uiu.ac.bd
+Ms. Mehenaz Afrin
+Lecturer, Dept. of EEE
+ROOM: 536
+PABX:
+Email: mehenaz@eee.uiu.ac.bd
 FAC
-Dr. Mohammad Nurul Huda
-Professor, Dept. of CSE & Head of Dept.
-ROOM: 412 A
-
-PABX: 3101
-
-Email: mnh@cse.uiu.ac.bd
+Mr. Raiyan Basher
+Lecturer, Dept. of EEE
+ROOM: 319 (B)
+PABX: 3121
+Email: raiyan@eee.uiu.ac.bd
 FAC
-Dr. Khondaker Abdullah -Al-Mamun
-Professor, Dept. of CSE & Director, IRIIC
-ROOM: 1012B
-
-PABX: 3115
-
-Email: mamun@cse.uiu.ac.bd
-FAC
+Mr. S.M. Monzurul Hoque Chowdhury
+Lecturer, Dept. of EEE
+ROOM:
+PABX:
+Email: monzurul@eee.uiu.ac.bd

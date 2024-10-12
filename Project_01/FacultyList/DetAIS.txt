@@ -1,33 +1,120 @@
 FAC
-Dr. Md. Abul Kashem Mia
-Vice Chancellor
-ROOM: 129
+Dr. Hasnan Ahmed
+Professor, School of Business & Economics (SoBE)
+ROOM: 433 A
 
-PABX:
+PABX: 5137
 
-Email: kashem@uiu.ac.bd
+Email: hahmed@bus.uiu.ac.bd
 FAC
-Dr. Hasan Sarwar
-Professor, Dept. of CSE & Dean, SoSE
-ROOM: 418 (A)
+Dr. Mohammad Musa
+Professor & Dean SoBE
+ROOM: 333 B
 
-PABX: 3001
+PABX: 5000
 
-Email: hsarwar@cse.uiu.ac.bd
+Email: mmusa@uiu.ac.bd
 FAC
-Dr. Mohammad Nurul Huda
-Professor, Dept. of CSE & Head of Dept.
-ROOM: 412 A
+Dr. M. Fouzul Kabir Khan
+Professor, School of Business & Economics (SoBE)
+ROOM: 733 (A)
 
-PABX: 3101
+PABX: 5126
 
-Email: mnh@cse.uiu.ac.bd
+Email: fouzul@bus.uiu.ac.bd
 FAC
-Dr. Khondaker Abdullah -Al-Mamun
-Professor, Dept. of CSE & Director, IRIIC
-ROOM: 1012B
+Dr. Salma Karim
+Professor, SoBE & Director, BBA Program
+ROOM: 216
 
-PABX: 3115
+PABX: 5101
 
-Email: mamun@cse.uiu.ac.bd
+Email: salma@bus.uiu.ac.bd
 FAC
+Dr. Farid Ahammad Sobhani
+Professor. SoBE & Director, CIAC
+ROOM: 612
+
+PABX: 6201
+
+Email: drsobhani@uiu.ac.bd
+FAC
+Dr. Abu Saleh Md. Sohel-Uz-Zaman
+Professor, School of Business & Economics (SoBE)
+ROOM: 333 C
+
+PABX: 5120
+
+Email: sohel@bus.uiu.ac.bd
+FAC
+Dr. Mohd. H. R. Joarder
+Professor, School of Business & Economics (SoBE)
+ROOM: 333 D
+
+PABX: 5128
+
+Email: raihan.joarder@bus.uiu.ac.bd
+FAC
+Dr. Md. Mohan Uddin
+Professor, School of Business & Economics (SoBE)
+ROOM: 433 (B)
+
+PABX: 5106
+
+Email: mohanuddin@bus.uiu.ac.bd
+FAC
+Dr. Kawsar Ahmmed
+Professor, SoBE & Director - MBA, EMBA and MIHRM Programs
+ROOM: 433 D
+
+PABX: 5111
+
+Email: kawsar@bus.uiu.ac.bd
+FAC
+Dr. Khandoker Mahmudur Rahman
+Professor, School of Business & Economics (SoBE)
+ROOM: 333/C
+
+PABX: 5130
+
+Email: khandoker@bus.uiu.ac.bd
+FAC
+Dr. Md. Shariful Alam
+Professor, School of Business & Economics (SoBE) & Director, IQAC
+ROOM: 216
+
+PABX: 5102
+
+Email: shariful@bus.uiu.ac.bd
+FAC
+Dr. James Bakul Sarkar
+Associate Professor, School of Business & Economics (SoBE)
+ROOM: 433 C
+
+PABX: 5103
+
+Email: jmssarkar@bus.uiu.ac.bd
+FAC
+Dr. Md. Qamruzzaman
+Associate Professor, School of Business & Economics (SoBE)
+ROOM: 315 B
+
+PABX: 5107
+
+Email: qamruzzaman@bus.uiu.ac.bd
+FAC
+Dr. Seyama Sultana
+Associate Professor, School of Business & Economics (SoBE)
+ROOM: 733 C
+
+PABX: 5138
+
+Email: seyama@bus.uiu.ac.bd
+FAC
+Dr. Saad Hasan
+Associate Professor, School of Business & Economics (SoBE)
+ROOM: 433 E
+
+PABX: 5141
+
+Email: saadhasan@bus.uiu.ac.bd

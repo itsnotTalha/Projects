@@ -14,8 +14,7 @@ SL	Name
 12	Riasat Azim			         	
 13	Mohammad Mamun Elahi		 	
 14	Rubaiya Rahtin Khan		     	
-15	Md. Benzir Ahmed		     	
-16	Nahid Hossain
+15	Mr. Abu Humayed Azim Fahmid
 			     			
 CSE EEE
 SL	Name				        		
