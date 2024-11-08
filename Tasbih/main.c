@@ -4,17 +4,19 @@
 #include <windows.h>
 void tasbih(int tasbih, int pearl)
 {
+    char A[100];
     for (int i = 0; i < tasbih; i++)
     {
         for (int j = 0; j < pearl; j++)
         {
+            scanf("%[^\n]", A);
             getchar();
             system("cls");
-            printf("Tasbih:%d & Count:%d", i + 1, j + 1);
+            printf("Tasbih:%d & Count:%d", i + 1, j );
             puts("");
         }
         Beep(750, 1000);
-        Sleep(800);
+        Sleep(900);
     }
 }
 void storeDT(const char *filename, int a, int b)
