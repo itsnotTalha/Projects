@@ -2,21 +2,56 @@
 #include <stdlib.h>
 #include <time.h>
 #include <windows.h>
+
+int menu(void);
+
+void progressBar(int perc, int max){
+    printf("[");
+    double cur = ((double)perc/max)*100;
+    for(int i = 1; i<=max; i++){
+        if(i<perc){
+            printf("=");
+        }else if(i==perc && i!=max){
+            printf("=>");
+        }else if(i==max && perc==max){
+            printf("=");
+        }else{
+            printf(".");
+        }
+    }
+    printf("] ");
+    printf("%.0lf%% \n",cur);
+}
+
 void tasbih(int tasbih, int pearl)
 {
     char A[100];
-    for (int i = 0; i < tasbih; i++)
+    for (int i = 1; i <= tasbih; i++)
     {
-        for (int j = 0; j < pearl; j++)
+        for (int j = 0; j <= pearl; j++)
         {
             scanf("%[^\n]", A);
             getchar();
             system("cls");
-            printf("Tasbih:%d & Count:%d", i + 1, j );
-            puts("");
+            printf("Tasbih:%d & Count:%d", i , j);
+            puts("\n");
+            progressBar(j,pearl);
         }
+        progressBar(i,tasbih);
         Beep(750, 1000);
         Sleep(900);
+    }
+    printf("[1] To go back\t[Any] To close\n");
+    char input[10];
+    if (fgets(input, sizeof(input), stdin) != NULL) {
+        // Remove trailing newline if exists
+        input[strcspn(input, "\n")] = 0;
+
+        if (strcmp(input, "1") == 0) {
+            menu();
+        } else {
+            exit(0);
+        }
     }
 }
 void storeDT(const char *filename, int a, int b)
@@ -89,6 +124,7 @@ int main(void)
         storeDT(filename, tsbh, pearl);
         break;
     case 6:
+        system("cls");
         FILE *file = fopen(filename, "r"); // Open the file in read mode
         if (file == NULL)
         {
@@ -103,7 +139,11 @@ int main(void)
         }
 
         fclose(file);
+        printf("Press any key to continue...");
+        getchar();
+        getchar();
         break;
+
     default:
         puts("Wrong Input");
         return 1;
