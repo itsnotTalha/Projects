@@ -3,52 +3,55 @@
 #include <time.h>
 #include <windows.h>
 
-int menu(void);
+int main(void);
 
 void progressBar(int perc, int max){
     printf("[");
     double cur = ((double)perc/max)*100;
-    for(int i = 1; i<=max; i++){
-        if(i<perc){
+    cur/=10;
+    cur*=2;
+    for(int i = 1; i<=20; i++){
+        if(i<cur){
             printf("=");
-        }else if(i==perc && i!=max){
+        }else if(i==cur && i!=max/10){
             printf("=>");
-        }else if(i==max && perc==max){
+        }else if(i==cur && (i==20 || i==1)){
             printf("=");
         }else{
             printf(".");
         }
     }
     printf("] ");
-    printf("%.0lf%% \n",cur);
+    printf("%.0lf%% \n",cur/2*10);
 }
 
 void tasbih(int tasbih, int pearl)
 {
     char A[100];
-    for (int i = 1; i <= tasbih; i++)
+    for (int i = 0; i <= tasbih; i++)
     {
         for (int j = 0; j <= pearl; j++)
         {
             scanf("%[^\n]", A);
             getchar();
             system("cls");
-            printf("Tasbih:%d & Count:%d", i , j);
-            puts("\n");
+            puts("______LORD_IS_MERCIFUL______");
+            printf("-----Tasbih:%d & Count:%d-----", i , j);
+            puts("\n____________________________");
+            progressBar(i,tasbih);
             progressBar(j,pearl);
         }
-        progressBar(i,tasbih);
-        Beep(750, 1000);
-        Sleep(900);
+        Beep(750, 900);
+        Sleep(500);
     }
-    printf("[1] To go back\t[Any] To close\n");
+    printf("[1] To go back  ||  [Any] To close\n");
     char input[10];
     if (fgets(input, sizeof(input), stdin) != NULL) {
         // Remove trailing newline if exists
         input[strcspn(input, "\n")] = 0;
 
         if (strcmp(input, "1") == 0) {
-            menu();
+            main();
         } else {
             exit(0);
         }
@@ -79,9 +82,9 @@ void storeDT(const char *filename, int a, int b)
     fclose(file);
 }
 
-int menu(void)
+char menu(void)
 {
-    int choice;
+    char choice;
     puts("----------Daily Dhikr----------");
     puts("1. 1x100");
     puts("2. 3x100");
@@ -89,8 +92,9 @@ int menu(void)
     puts("4. 3x33");
     puts("5. Custom");
     puts("6. Show history");
+    puts("0. Terminate");
     printf("Enter your choice: ");
-    scanf("%d", &choice);
+    scanf("%c", &choice);
     return choice;
 }
 int main(void)
@@ -99,23 +103,28 @@ int main(void)
     int tsbh, pearl;
     switch (menu())
     {
-    case 1:
+    case '0':
+        system("cls");
+        puts("Fi-Amanillah");
+        exit(0);
+        break;
+    case '1':
         tasbih(1, 100);
         storeDT(filename, 1, 100);
         break;
-    case 2:
+    case '2':
         tasbih(3, 100);
         storeDT(filename, 3, 100);
         break;
-    case 3:
+    case '3':
         tasbih(4, 100);
         storeDT(filename, 4, 100);
         break;
-    case 4:
+    case '4':
         tasbih(3, 33);
         storeDT(filename, 3, 33);
         break;
-    case 5:
+    case '5':
         printf("Enter Tasbih: ");
         scanf("%d", &tsbh);
         printf("Enter pearl amount: ");
@@ -123,7 +132,7 @@ int main(void)
         tasbih(tsbh, pearl);
         storeDT(filename, tsbh, pearl);
         break;
-    case 6:
+    case '6':
         system("cls");
         FILE *file = fopen(filename, "r"); // Open the file in read mode
         if (file == NULL)
@@ -142,10 +151,13 @@ int main(void)
         printf("Press any key to continue...");
         getchar();
         getchar();
+        system("cls");
+        main();
         break;
 
     default:
-        puts("Wrong Input");
-        return 1;
+        system("cls");
+        puts("Wrong Input, try again!");
+        main();
     }
 }
