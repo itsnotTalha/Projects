@@ -2,33 +2,36 @@
 #include <stdlib.h>
 #include <time.h>
 #include <windows.h>
+#include<math.h>
 
 int main(void);
 
-void progressBar(int perc, int max){
+
+void progressBar(int count, int total){
     printf("[");
-    double cur = ((double)perc/max)*100;
-    cur/=10;
-    cur*=2;
-    for(int i = 1; i<=20; i++){
-        if(i<cur){
+     
+     int barWidth = 20;
+    double percent = (double)count / total;
+    int filled = (int)(percent * barWidth);
+    int exactPercent = (int)(percent * 100);
+
+    for (int i = 0; i < barWidth; i++) {
+        if (i < filled) {
             printf("=");
-        }else if(i==cur && i!=max/10){
-            printf("=>");
-        }else if(i==cur && (i==20 || i==1)){
-            printf("=");
-        }else{
+        } else if (i == filled && count != total && count != 0) {
+            printf(">");
+        } else {
             printf(".");
         }
     }
-    printf("] ");
-    printf("%.0lf%% \n",cur/2*10);
+
+    printf("] %d%%\n", exactPercent);
 }
 
 void tasbih(int tasbih, int pearl)
 {
     char A[100];
-    for (int i = 0; i <= tasbih; i++)
+    for (int i = 1; i <= tasbih; i++)
     {
         for (int j = 0; j <= pearl; j++)
         {
@@ -38,12 +41,19 @@ void tasbih(int tasbih, int pearl)
             puts("______LORD_IS_MERCIFUL______");
             printf("-----Tasbih:%d & Count:%d-----", i , j);
             puts("\n____________________________");
-            progressBar(i,tasbih);
+            progressBar(i-1,tasbih);
             progressBar(j,pearl);
         }
         Beep(750, 900);
-        Sleep(500);
+        Sleep(300);
     }
+    system("cls");
+    printf("______LORD_IS_MERCIFUL______\n");
+    printf("-----Tasbih:%d & Count:%d-----\n", tasbih, pearl);
+    printf("____________________________\n");
+    progressBar(tasbih, tasbih);
+    progressBar(pearl, pearl);
+
     printf("[1] To go back  ||  [Any] To close\n");
     char input[10];
     if (fgets(input, sizeof(input), stdin) != NULL) {
