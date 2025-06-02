@@ -53,7 +53,7 @@ void tasbih(int tasbih, int pearl)
     printf("____________________________\n");
     progressBar(tasbih, tasbih);
     progressBar(pearl, pearl);
-
+    getchar();
     printf("[1] To go back  ||  [Any] To close\n");
     char input[10];
     if (fgets(input, sizeof(input), stdin) != NULL) {
