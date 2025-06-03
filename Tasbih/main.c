@@ -5,6 +5,8 @@
 #include<math.h>
 
 int main(void);
+const char *filename = "History.txt";
+void storeDT(const char *filename, int a, int b);
 
 
 void progressBar(int count, int total){
@@ -58,6 +60,8 @@ void tasbih(int tasbih, int pearl)
     progressBar(pearl, pearl);
     getchar();
     printf("[1] To go back  ||  [Any] To close\n");
+    storeDT(filename, tasbih, pearl);
+
     char input[10];
     if (fgets(input, sizeof(input), stdin) != NULL) {
         // Remove trailing newline if exists
@@ -112,8 +116,8 @@ char menu(void)
 }
 int main(void)
 {
-    const char *filename = "History.txt";
     int tsbh, pearl;
+    start:
     switch (menu())
     {
     case '0':
@@ -123,19 +127,19 @@ int main(void)
         break;
     case '1':
         tasbih(1, 100);
-        storeDT(filename, 1, 100);
+        //storeDT(filename, 1, 100);
         break;
     case '2':
         tasbih(3, 100);
-        storeDT(filename, 3, 100);
+        // storeDT(filename, 3, 100);
         break;
     case '3':
         tasbih(4, 100);
-        storeDT(filename, 4, 100);
+        // storeDT(filename, 4, 100);
         break;
     case '4':
         tasbih(3, 33);
-        storeDT(filename, 3, 33);
+        // storeDT(filename, 3, 33);
         break;
     case '5':
         printf("Enter Tasbih: ");
@@ -143,7 +147,7 @@ int main(void)
         printf("Enter pearl amount: ");
         scanf("%d", &pearl);
         tasbih(tsbh, pearl);
-        storeDT(filename, tsbh, pearl);
+        // storeDT(filename, tsbh, pearl);
         break;
     case '6':
         system("cls");
@@ -165,12 +169,12 @@ int main(void)
         getchar();
         getchar();
         system("cls");
-        main();
+        goto start;
         break;
 
     default:
         system("cls");
         puts("Wrong Input, try again!");
-        main();
+        goto start;
     }
 }
