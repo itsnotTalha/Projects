@@ -39,7 +39,10 @@ void tasbih(int tasbih, int pearl)
             getchar();
             system("cls");
             puts("______LORD_IS_MERCIFUL______");
+            if(j<10)
             printf("-----Tasbih:%d & Count:%d-----", i , j);
+            else
+            printf("-----Tasbih:%d & Count:%d----", i , j);
             puts("\n____________________________");
             progressBar(i-1,tasbih);
             progressBar(j,pearl);
