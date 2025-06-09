@@ -8,11 +8,10 @@ int main(void);
 const char *filename = "History.txt";
 void storeDT(const char *filename, int a, int b);
 
-
 void progressBar(int count, int total){
     printf("[");
      
-     int barWidth = 20;
+    int barWidth = 20;
     double percent = (double)count / total;
     int filled = (int)(percent * barWidth);
     int exactPercent = (int)(percent * 100);
@@ -30,9 +29,32 @@ void progressBar(int count, int total){
     printf("] %d%%\n", exactPercent);
 }
 
+void mainProgressBar(int current, int total) {
+    printf("[");
+     
+    int barWidth = 20;
+    double percent = (double)current / total;
+    int filled = (int)(percent * barWidth);
+    int exactPercent = (int)(percent * 100);
+
+    for (int i = 0; i < barWidth; i++) {
+        if (i < filled) {
+            printf("=");
+        } else if (i == filled && current != total && current != 0) {
+            printf(">");
+        } else {
+            printf(".");
+        }
+    }
+
+    printf("] %d%%\n", exactPercent);
+}
+
+
 void tasbih(int tasbih, int pearl)
 {
     char A[100];
+    int totalSteps = tasbih * (pearl + 1);
     for (int i = 1; i <= tasbih; i++)
     {
         for (int j = 0; j <= pearl; j++)
@@ -46,7 +68,9 @@ void tasbih(int tasbih, int pearl)
             else
             printf("-----Tasbih:%d & Count:%d----", i , j);
             puts("\n____________________________");
-            progressBar(i-1,tasbih);
+            
+            int currentStep = (i - 1) * (pearl + 1) + j;
+            mainProgressBar(currentStep, totalSteps);
             progressBar(j,pearl);
         }
         Beep(750, 900);
